@@ -7,7 +7,6 @@ function comp($a1, $a2) {
         for ($j = 0; $j < count($a1); $j++) {
 
             if ($a2[$i] == pow($a[$j], 2)) {
-
                 $x++;
             }
         }
